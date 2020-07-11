@@ -180,10 +180,11 @@ footer {
     text-align: center;
     background-color: #242830;
     position: absolute;
-  	bottom: 0;
-  	width: 100%;
-  	/* Set the fixed height of the footer here */
-  	height: 80px;
+    display: flex,
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 80px;
 }
 .footer a
 {
